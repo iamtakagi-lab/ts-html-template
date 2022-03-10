@@ -1,0 +1,12 @@
+{
+  "name": "ts-html-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "iamtakagi",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
